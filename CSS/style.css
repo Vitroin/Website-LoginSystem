@@ -1,0 +1,36 @@
+body{
+    background-color: #24353F;
+
+}
+
+.form-control {
+    height: 30px;
+    background-color: transparent;
+    color: #B6B6B6;
+}
+.form-control:focus {
+    background-color: transparent;
+    color: #B6B6B6;
+}
+
+.form-control::placeholder {
+    font-size: 14px;
+    color: #B6B6B6;
+}
+
+.w-45{
+    width: 45%;
+}
+
+.my-bg{
+    background-color: #24353F;
+}
+
+.my-shadow{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+a:hover{
+    text-decoration: line-through;
+}
+
